@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 30px;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #7695f5, #d776f5, #d776f5);
+}
+
+form>div {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+input {
+  border-radius: 5px;
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+}

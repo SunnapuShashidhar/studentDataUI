@@ -1,0 +1,10 @@
+.add {
+  position: fixed;
+  bottom: 10px;
+  display: flex;
+
+}
+
+.add h1 {
+  display: inline-block;
+}
